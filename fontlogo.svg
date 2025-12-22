@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="1280mm"
+   height="640mm"
+   viewBox="0 0 1280 640"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.4.2 (f4327f4, 2025-05-13)"
+   sodipodi:docname="fontlogo.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="px"
+     inkscape:zoom="0.20031716"
+     inkscape:cx="2755.6301"
+     inkscape:cy="1697.3084"
+     inkscape:window-width="2560"
+     inkscape:window-height="1566"
+     inkscape:window-x="-11"
+     inkscape:window-y="-11"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs1">
+    <rect
+       x="698.8917"
+       y="1108.2425"
+       width="2680.7489"
+       height="1048.3375"
+       id="rect3" />
+  </defs>
+  <g
+     inkscape:label="图层 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <text
+       xml:space="preserve"
+       style="font-size:176.389px;font-family:'Microsoft YaHei';-inkscape-font-specification:'Microsoft YaHei';text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#ffffff;stroke:#989898;stroke-width:0.264583"
+       x="639.25916"
+       y="290.79004"
+       id="text1"><tspan
+         id="tspan1"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:211.667px;font-family:AGSL2;-inkscape-font-specification:AGSL2;text-align:center;writing-mode:lr-tb;baseline-shift:baseline;text-anchor:middle;fill:#000000;stroke-width:0.264583"
+         x="639.25916"
+         y="290.79004"
+         sodipodi:role="line"></tspan><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:158.75px;font-family:bslang-letter;-inkscape-font-specification:bslang-letter;text-align:center;writing-mode:lr-tb;baseline-shift:baseline;text-anchor:middle;fill:#000000;stroke-width:0.264583"
+         x="639.25916"
+         y="528.25372"
+         sodipodi:role="line"
+         id="tspan2">agsl</tspan></text>
+    <text
+       xml:space="preserve"
+       transform="scale(0.26458333)"
+       id="text3"
+       style="fill:#000000;text-orientation:auto;-inkscape-font-specification:AGSL2;font-family:AGSL2;font-size:466.66666667px;stroke:#989898;text-align:center;writing-mode:lr-tb;direction:ltr;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;white-space:pre;shape-inside:url(#rect3)" />
+  </g>
+</svg>
