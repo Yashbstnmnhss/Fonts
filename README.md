@@ -1,3 +1,5 @@
+![logo](./fontlogo.svg)
+
 # Bstnchinglish.ttf
 
 添加了`ed` `ing` `e*n`的连字
