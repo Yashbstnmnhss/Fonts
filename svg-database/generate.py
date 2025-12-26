@@ -9,7 +9,7 @@ folders = [
     "final",  
     "nn"  
 ]
-output_dir = "output_hex"
+output_dir = "output_hex_2"
 viewbox = "0 0 180 180" 
 
 

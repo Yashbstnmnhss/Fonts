@@ -7,9 +7,31 @@
    viewBox="0 0 180 180"
    version="1.1"
    id="svg1"
+   sodipodi:docname="c.svg"
+   inkscape:version="1.4.2 (f4327f4, 2025-05-13)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns="http://www.w3.org/2000/svg"
    xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="7.0666667"
+     inkscape:cx="90"
+     inkscape:cy="90"
+     inkscape:window-width="2560"
+     inkscape:window-height="1566"
+     inkscape:window-x="-11"
+     inkscape:window-y="-11"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg1" />
   <defs
      id="defs1" />
   <path
@@ -44,10 +66,11 @@
      d="M 14.205078,15.058594 V 164.32031 h 42.355469 v -3.76758 H 21.642578 a 3.5550895,3.5550895 0 0 1 -3.554687,-3.55468 V 22.378906 a 3.5550895,3.5550895 0 0 1 3.554687,-3.554687 h 33.800781 v -3.765625 z"
      transform="translate(0,0.78994084)" />
   <path
-     d="M 10.649783,11.50425 H 58.998821 V 22.379338 H 21.643305 V 156.99896 H 60.11502 v 10.87509 H 10.649783 Z"
+     d="M 10.649783,11.50425 H 58.998821 V 24.379338 H 23.643305 V 154.99896 H 60.11502 v 12.87509 H 10.649783 Z"
      id="text11"
      style="font-size:64px;font-family:'Microsoft YaHei';-inkscape-font-specification:'Microsoft YaHei';display:inline;stroke-width:1.65172"
-     aria-label="匚" />
+     aria-label="匚"
+     sodipodi:nodetypes="ccccccccc" />
   <path
      id="text12"
      style="font-size:64px;font-family:'Microsoft YaHei';-inkscape-font-specification:'Microsoft YaHei';display:none;stroke-width:2.74689"
