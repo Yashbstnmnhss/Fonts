@@ -1,0 +1,17 @@
+@font-face {
+    font-family: agsl;
+    src: url(../resources/agsl2.ttf);
+}
+@font-face {
+    font-family: bstn;
+    src: url(../resources/bslang-letter.ttf);
+}
+
+* {
+    font-family: bstn;
+}
+
+.agsl {
+    font-family: agsl;
+    font-size: 2rem;
+}
